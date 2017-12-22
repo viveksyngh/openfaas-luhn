@@ -15,4 +15,6 @@ $ echo -n '4539 1488 0343 6467' | faas-cli invoke luhn --gateway=<GATEWAY-IP>
 ```
 
 ### Example
+![True](https://github.com/viveksyngh/openfaas-luhn/blob/master/screens/luhn-true.png)
+
 ![False](https://github.com/viveksyngh/openfaas-luhn/blob/master/screens/luhn-false.png)
