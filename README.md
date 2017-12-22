@@ -11,7 +11,7 @@ $ faas-cli deploy -f ./luhn.yml --gateway=http://<GATEWAY-IP>
 
 Invoke: 
 ```bash
-$ echo -n '4539 1488 0343 6467' | faas-cli invoke luhn --gateway=<GATEWAY-URL>
+$ echo -n '4539 1488 0343 6467' | faas-cli invoke luhn --gateway=<GATEWAY-IP>
 ```
 
 ### Example
