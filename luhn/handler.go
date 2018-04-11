@@ -11,8 +11,6 @@ func Handle(req []byte) string {
 	return fmt.Sprintf(strconv.FormatBool(Valid(string(req))))
 }
 
-//Extra comment line
-
 //Valid checks if a string given follows luhn's algorithm or not.
 func Valid(number string) bool {
 
