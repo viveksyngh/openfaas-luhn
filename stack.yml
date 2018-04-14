@@ -1,6 +1,6 @@
 provider:
   name: faas
-  gateway: http://localhost:8080
+  gateway: http://185.136.235.75:31112
 
 functions:
   luhn:
