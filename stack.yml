@@ -6,4 +6,4 @@ functions:
   luhn:
     lang: go
     handler: ./luhn
-    image: viveksyngh/luhn
+    image: viveksyngh/luhn:latest
