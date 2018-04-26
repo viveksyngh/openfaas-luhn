@@ -3,8 +3,6 @@ Luhn Algorithm as open faas function (https://en.wikipedia.org/wiki/Luhn_algorit
 
 Luhn Algorithm is a simple checksum formula used to validate a variety of identification numbers, such as credit card numbers, IMEI numbers, National Provider Identifier numbers in the United States, Canadian Social Insurance Numbers, Israel ID Numbers and Greek Social Security Numbers (ΑΜΚΑ).
 
-# Added Testcase
-
 ### Usage
 
 Deploy:
